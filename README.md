@@ -1,3 +1,6 @@
+<img width="1022" height="661" alt="Screenshot 2026-07-01 213053" src="https://github.com/user-attachments/assets/62c8e610-6b6b-4999-a2dd-ac04e1c88989" />
+<img width="532" height="447" alt="Screenshot 2026-07-01 213101" src="https://github.com/user-attachments/assets/238a347f-926c-41c3-baf7-8d59b4da57f6" />
+<img width="486" height="452" alt="Screenshot 2026-07-01 213110" src="https://github.com/user-attachments/assets/6968cb76-b373-4f5e-8c43-c58715f11e80" />
 # 🩺 Diabetes Prediction using Logistic Regression
 
 ## 📌 Project Overview
